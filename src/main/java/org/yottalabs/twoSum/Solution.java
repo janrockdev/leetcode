@@ -1,4 +1,4 @@
-package org.yottalabs;
+package org.yottalabs.twoSum;
 
 import java.util.Arrays;
 
